@@ -1,4 +1,7 @@
 # OOP-Project
+It's an RPG game thats a single player where the player will be assigned to a Warrior and Wizard.
+and tasked to defeat a group of enemies based on the difficulty chosen
+
 
 
 
