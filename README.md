@@ -1,36 +1,19 @@
 # OOP-Project
 It's an RPG game thats a single player where the player will be assigned to a Warrior and Wizard.
 and tasked to defeat a group of enemies based on the difficulty chosen.
+
 # Installation
 -> Install [SFML](https://www.sfml-dev.org/index.php)
 -> Run the Makefile in the folder to compile and then run the game.
 -> Run test_runner to play
+
 # How to Play
 -> The user can input the number of players and enemies that they want, then "Enter" to start the game.
 -> User can press "W" to attack and press the left or right arrow to choose which enemy to attack
 -> User can enter "space" or "Esc" to end or save the game
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Action Handler: Thi
-s file contains the logic for handling various actions that can be performed in the game, such as moving a character, attacking an enemy, or using a spell.
+# Decription of the Files
+Action Handler: This file contains the logic for handling various actions that can be performed in the game, such as moving a character, attacking an enemy, or using a spell.
 
 Button: This file defines a Button class used for creating interactive buttons in the game’s user interface, such as those found in menus.
 
